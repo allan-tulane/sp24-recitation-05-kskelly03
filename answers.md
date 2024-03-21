@@ -1,8 +1,8 @@
 # CMPS 2200 Reciation 5
 ## Answers
 
-**Name:**__Kevin Skelly________
-
+**Name:** Kevin Skelly
+**Collaborator:** Zach Goodman
 
 Place all written answers from `recitation-05.md` here for easier grading.
 
